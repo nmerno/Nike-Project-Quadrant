@@ -5,7 +5,6 @@ Four Workstreams  |  Channel  ·  Geography  ·  Retail Partners  ·  Seasonalit
 
 ## Table of contents
 * [Executive Summary](#Executive_Summary)
-* [Key Insights](#Key_Insights)
 * [Workstream 1](#Channel_Optimization)
 * [Workstream 2](#Geography)
 * [Workstream 3](#Retail_Partners)
@@ -15,14 +14,15 @@ Four Workstreams  |  Channel  ·  Geography  ·  Retail Partners  ·  Seasonalit
 
 ## Executive Summary
 
-Nike’s global brand equity remains highly resilient. However, a diagnostic evaluation of 9,648 transactional records across FY2020 and FY2021 highlights a critical structural mismatch: top-line growth is not translating into bottom-line performance. Gross revenue and unit volumes continue to expand, but operating margins are compressing. This indicates that Nike does not face a demand generation problem, but rather a profit conversion challenge.
+Nike continues to dominate from a brand perspective, but the data suggests a deeper operational issue beneath the surface. After our analysis of 9,648 transactional records spanning US fiscal years 2020 and 2021 reveals a structural paradox at the core of Nike's commercial engine: top-line growth consistently fails to translate into equivalent bottom-line performance. While sales volume and revenue continue to expand, operating margins often decline, indicating inefficiencies in how profit is captured across the retail network.
 
-This report establishes actionable strategies across four core workstreams designed to eliminate structural friction and capture trapped margin across the distribution network.
+This report presents findings across four diagnostic workstreams: Channel Profit Pool Optimization, Geographic Profitability Arbitrage, Retail Partner Efficiency, and Inventory Velocity Synchronization. Each workstream targeting a distinct friction layer within Nike's distribution system. 
 
 <img width="633" height="77" alt="image" src="https://github.com/user-attachments/assets/e437c023-c89c-4a78-a480-f663e86bd9d5" />
 
 
-_-> The Paradox of Volume: Nike's revenue and unit growth metrics mask a structural margin erosion driven by channel misallocation, geographic misinvestment, partner discounting behavior, and rigid inventory cadences. Correcting these four friction points represents a material, near-term profitability opportunity._
+
+*The Paradox of Volume: Nike’s commercial engine continues to deliver strong revenue and volume growth. However, margin performance is not scaling at the same rate. The analysis indicates that inefficiencies across channel mix, regional allocation, partner economics, and inventory flow are diluting profitability. Correcting these four friction points represents a material, near-term profitability opportunity.*
 
 ### Strategic Mandate
 ----------------------
@@ -31,32 +31,51 @@ To protect long-term profitability, Nike must evolve from a volume-driven distri
 
 <img width="625" height="172" alt="image" src="https://github.com/user-attachments/assets/70be254b-dec4-4b33-8a0e-ce8544beeea1" />
 
-## WORKSTREAM 1 — CHANNEL PROFIT POOL OPTIMIZATION
+## WORKSTREAM 1 — CHANNEL OPTIMIZATION
 
-Objective: Evaluate how each sales method converts gross volume into net operating cash flow, and identify channels where margin dilution systematically erodes the value of volume growth.
+Objective: Evaluate how each sales method converts gross volume into net operating cash flow, and identify channels that lose too much profit margin as they grow.
 
 ### Key Finding: The Volume-Margin Inversion
 ---------------------------------------------
-Online is Nike's highest-revenue channel at 37.9% revenue share, yet yields the lowest profit contribution at 29.1% and the worst Profit Conversion Coefficient (PCC) of 0.77 wich means every dollar of revenue generated online returns only 77 cents in proportional profit weight. By contrast, In-store channels generate the lowest revenue share (27.8%) but the highest profit share (38.4%), delivering a PCC of 1.38. This inversion is structurally significant: Nike's fastest-growing channel is its least efficient profit converter.
+Online is Nike's highest-revenue channel at 37.9% revenue share,  but it delivers the lowest profit contribution at 29.1% and the weakest Profit Conversion Coefficient (PCC) 0.77 wich means every dollar of revenue generated online returns only 77 cents in proportional profit weight. By contrast, In-store channels generate the lowest revenue share (27.8%) but the highest profit share (38.4%), delivering a PCC of 1.38. This inversion is structurally significant: Nike's fastest-growing channel is its least efficient profit converter.
 
 <img width="625" height="119" alt="image" src="https://github.com/user-attachments/assets/2c868d04-286b-4848-aa12-520c82f24e1d" />
 
-##### Note : Online's higher average operating margin (46.4%) versus In-store (35.6%) reflects per-transaction efficiency, not systemic profitability. The PCC metric is the operative measure of channel-level profit conversion relative to revenue weight and In-store dominates at 1.38x break-even.
+##### Note : Online's higher average operating margin (46.4%) versus In-store (35.6%) reflects per-transaction efficiency, not systemic profitability. The PCC is the more relevant measure, as it captures how effectively each channel converts revenue into profit relative to its weight and In-store dominates at 1.38x break-even.
 
 ### Root Cause Analysis
 ------------------------
-* Online channel suffers from elevated fulfillment costs, return rates, and digital acquisition spend that dilute net operating margins relative to transactional margins.
+* Online channel suffers from elevated fulfillment costs, return rates, and digital acquisition spend which reduces overall profit despite strong sales volumes.
 * Outlet channels carry heavy markdown exposure, with a PCC of 0.95 sitting just below the break-even threshold of 1.0, signaling structural margin risk.
-*	In-store channels benefit from lower transaction friction, reduced return velocity, and premium product mix allocation.
+*	In-store channels benefit from lower transaction friction, reduced return velocity, and premium product mix allocation. So it's remain the most efficient, leading to higher profit conversion.
 
 ### Strategic Recommendations
 ------------------------------
-*	Action 1.1 Reallocate inventory allocation thresholds:
-–	Shift high-ASP (average selling price) product categories toward In-store, where PCC justifies premium positioning.
-–	Set explicit unit caps on Online channel for margin-sensitive SKUs to prevent profit dilution.
-* Action 1.2 Restructure Online unit economics:
-–	Introduce channel-specific pricing or shipping thresholds to offset fulfillment drag on Online margin conversion.
-–	Audit digital marketing spend efficiency against per-channel ROAS (Return on Ad Spend) to identify waste.
-*	Action 1.3 Outlet channel remediation:
-–	Outlet's PCC of 0.95 sits below break-even. Markdown authorization controls and tighter clearance windows should be enforced to prevent further erosion.
+* Action 1.1 Reallocate inventory allocation thresholds :
+  - Shift high-ASP (average selling price) product so premium, expensive items categories toward **In-store**, where PCC justifies premium positioning.
+  - Set explicit unit caps on the Online channel for margin-sensitive SKUs to prevent profit dilution. 
+
+* Action 1.2 Restructure Online unit economics  
+  - Introduce channel-specific pricing or shipping thresholds to mitigate the impact of fulfillment costs on Online margin conversion.
+  - Audit digital marketing spend efficiency against per-channel ROAS (Return on Ad Spend) to identify waste.  
+
+* Action 1.3 Outlet channel remediation  
+  - Outlet PCC of 0.95 sits below break-even ( This means Nike is likely selling at too much discount, destroying brand value and margins). 
+  - Enforce tighter markdown authorization controls and shorter clearance windows to prevent further erosion. 
+
+## WORKSTREAM 2 — GEOGRAPHIY
+
+Objective: Identify territorial expansion zones from saturated, margin-draining regions by mapping city-level unit volume against operating margin performance. So each city becomes a point on a profit vs volume map.
+
+### Portfolio Matrix Findings
+------------------------------
+A 2x2 geographic portfolio matrix : plotting total units sold (x-axis) against average operating margin (y-axis). This Matrix reveals four distinct city archetypes. The analysis exposes a counterintuitive truth: Nike's highest-volume urban markets are systematically underperforming on margin, while smaller, mid-tier cities deliver superior returns.
+
+<img width="623" height="172" alt="image" src="https://github.com/user-attachments/assets/01abc552-10e0-4312-90ce-c4294e264ecc" />
+
+### Profit Deserts: High-Volume, Low-Margin Urban Markets
+----------------------------------------------------------
+Five of Nike's largest metropolitan markets fall into the Profit Desert quadrant : generating significant unit volume while delivering below-average operating margins. The systemic causes include supply chain cost inflation in dense urban corridors, intensified competitive pricing pressure from local retail ecosystems, and over-allocation of marketing capital relative to margin return.
+
+<img width="627" height="168" alt="image" src="https://github.com/user-attachments/assets/811437dd-c46a-410e-bb97-55a677f1886c" />
 
