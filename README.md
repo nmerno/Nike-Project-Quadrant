@@ -126,9 +126,36 @@ The risk of eroding overall brand value is concentrated heavily within Retailer 
 Moving over 625,000 units through a partner that operates 8.0 percentage points below our top-performing retailer (1197831) creates a compounding financial leak. Every unit routed through this channel represents a missed opportunity to capture higher margins elsewhere in the network
 
 ### Strategic Recommendations 
--------------------------------------------------------
+------------------------------
 
 * Action 3.1: Retailer 1197831 (MEI: 1.10): Premium tier. Reward with priority allocation of limited-release product drops and joint marketing investment. This partner is the network's margin anchor.
 * Action 3.2:	Retailer 1189833 (MEI: 1.03): Stable tier. Maintain current commercial terms with monitoring. High margin standard deviation (0.131) suggests inconsistent pricing discipline — deploy category-specific guardrails.
 * Action 3.3: Retailer 1185732 (MEI: 1.00): At par. Largest volume partner. Prioritize operational efficiency programs and product mix optimization to shift MEI above 1.05 threshold.
 * Action 3.4:	Retailer 1128299 (MEI: 0.92): At risk. Subject to immediate commercial review. Implement mandatory markdown authorization controls and define MEI improvement milestones (target: 0.98 within 24 months) with wind-down trigger if thresholds are not met.
+
+## WORKSTREAM 4 — INVENTORY VELOCITY & SEASONAL SYNCHRONIZATION
+
+Objective: How can Nike reduce margin erosion by aligning inventory replenishment with real-time demand velocity?
+Understand when and why demand shifts, spot the inventory mismatches that eat into margins, and move away from rigid quarterly planning toward a smarter, demand-driven replenishment approach.
+Identify temporal demand patterns and systemic inventory mismatches that drive margin erosion events, and transition from static quarterly cadences to dynamic, run-rate-based replenishment.
+
+### Margin Erosion Event Analysis
+----------------------------------
+Looking across FY2020, four distinct moments stand out where operating margins took a notable hit (each time dropping more than 5 percentage points month-over-month). In every case, the pattern points to the same root cause: inventory arriving too late in the demand cycle, leaving the business with excess stock that had to be cleared through discounting.
+
+<img width="619" height="201" alt="image" src="https://github.com/user-attachments/assets/e3a1996c-31f2-4df9-9195-388222eda334" />
+
+June 2020 is the standout. A 18.9-point margin collapse in a single month driven by clearance pricing on over-inventoried Spring/Summer product. This event alone would have significantly impacted H1 2020 operating profit targets.
+
+### Product Run-Rate Analysis 
+------------------------------
+The top 10 products by monthly run-rate are all Air Max and Zoom family variants, each delivering a consistent 40% operating margin. Despite strong volume leadership, none of these SKUs exhibit margin differentiation suggesting that run-rate leaders are being managed as commodity volume drivers rather than as premium margin contributors. 
+
+<img width="624" height="277" alt="image" src="https://github.com/user-attachments/assets/9637b711-c11a-43c2-a39f-b2a3cf3e2880" />
+
+### Strategic Recommendations
+-----------------------------
+* Action 4.1 — Replace fixed quarterly distribution cycles with a rolling 90-day replenishment model that responds to real-time demand signals at the city level. Planning should follow actual sales velocity, not the calendar.
+* Action 4.2 — Build in early warning triggers. If a product's 30-day run-rate drops more than 20% below its recent average, stop pushing new inventory in and focus on selling through existing stock before considering any markdowns.
+* Action 4.3 — Tailor safety stock levels by region. Hidden Gem markets, where demand is growing, should carry more buffer inventory. Profit Desert markets, where over-stocking has proven costly, should be kept lean.
+* Action 4.4 — Introduce a tiered pricing approach for top-performing styles like the Air Max 90 and Air Max 270. Rather than flooding the market with open volume, use controlled availability to protect and grow margins on the products that can actually command a premium.
