@@ -44,9 +44,11 @@ Objective: How each sales method converts revenue into operating profit? and whe
 Online is Nike's highest-revenue channel at 37.9% revenue share,  but it delivers the lowest profit contribution at 29.1% and the weakest Profit Conversion Coefficient (PCC) 0.77 wich means every dollar of revenue generated online returns only 77 cents in proportional profit weight. By contrast, In-store channels generate the lowest revenue share (27.8%) but the highest profit share (38.4%), delivering a PCC of 1.38. This inversion is structurally significant: Nike's fastest-growing channel is its least efficient profit converter.
 
 
+Online's higher average operating margin (46.4%) versus In-store (35.6%) reflects per-transaction efficiency, not systemic profitability. The PCC is the more relevant measure, as it captures how effectively each channel converts revenue into profit relative to its weight and In-store dominates at 1.38x break-even.
+
+
 <img width="625" height="119" alt="image" src="https://github.com/user-attachments/assets/2c868d04-286b-4848-aa12-520c82f24e1d" />
 
-##### Note : Online's higher average operating margin (46.4%) versus In-store (35.6%) reflects per-transaction efficiency, not systemic profitability. The PCC is the more relevant measure, as it captures how effectively each channel converts revenue into profit relative to its weight and In-store dominates at 1.38x break-even.
 
 ### Root Cause Analysis
 ------------------------
@@ -97,4 +99,36 @@ A cluster of mid-tier cities demonstrates structurally superior operating margin
 * Action 2.2 Conduct distribution center feasibility analysis for Hidden Gem clusters (Midwest corridor: Omaha, St. Louis, Chicago) to reduce fulfillment friction and improve margin capture.
 * Action 2.3 Implement a city-level Profit Desert remediation program: audit local pricing architecture, renegotiate key retail contracts, and evaluate selective market densification versus exit.
 
+## Workstream 3 — Retail Partner Efficiency
 
+Objective: Which retail partners create value and which ones reduce margin across the network?
+Identifying where the partner network preserves margin and where it quietly destroys it.
+
+### Margin Efficiency Index
+-----------------------------
+The Margin Efficiency Index (MEI) compares each retailer’s average operating margin to the fleet average of 42.3%. Scores above 1.0 indicate above average margin performance, while scores below 1.0 suggest weaker profitability relative to the rest of the network.The analysis reveals significant dispersion across the four-retailer network. 
+
+
+<img width="690" height="155" alt="image" src="https://github.com/user-attachments/assets/61eb3332-a7af-4fdb-9a7c-fd22d4cda4a3" />
+
+
+### Critical Observation: Volume Does Not Equal Value
+-------------------------------------------------------
+Our data highlights a critical disconnect: high sales volume is not translating into high strategic value. Two of Nike’s largest partners are currently underperforming on profitability, requiring immediate strategic attention.
+
+* Retailer 1185732 (High Volume, Flat Returns): As our largest partner by a wide margin (1.25M units), they offer highly predictable and consistent sales. However, their margin efficiency index (MEI) is strictly average at 1.00. While dependable, this channel is essentially a flatline—it moves a massive amount of product without delivering any premium return or strategic differentiation.
+
+* Retailer 1128299 (The Profitability Leak): This partner represents our most urgent risk. They manage our second-highest volume (626K units) but operate at our lowest margin efficiency (0.92), actively pulling down the profitability of the entire network.
+
+The Bottom-Line Impact
+The risk of eroding overall brand value is concentrated heavily within Retailer 1128299.
+
+Moving over 625,000 units through a partner that operates 8.0 percentage points below our top-performing retailer (1197831) creates a compounding financial leak. Every unit routed through this channel represents a missed opportunity to capture higher margins elsewhere in the network
+
+### Strategic Recommendations 
+-------------------------------------------------------
+
+* Action 3.1: Retailer 1197831 (MEI: 1.10): Premium tier. Reward with priority allocation of limited-release product drops and joint marketing investment. This partner is the network's margin anchor.
+* Action 3.2:	Retailer 1189833 (MEI: 1.03): Stable tier. Maintain current commercial terms with monitoring. High margin standard deviation (0.131) suggests inconsistent pricing discipline — deploy category-specific guardrails.
+* Action 3.3: Retailer 1185732 (MEI: 1.00): At par. Largest volume partner. Prioritize operational efficiency programs and product mix optimization to shift MEI above 1.05 threshold.
+* Action 3.4:	Retailer 1128299 (MEI: 0.92): At risk. Subject to immediate commercial review. Implement mandatory markdown authorization controls and define MEI improvement milestones (target: 0.98 within 24 months) with wind-down trigger if thresholds are not met.
