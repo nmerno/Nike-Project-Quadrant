@@ -1,7 +1,10 @@
 # NIKE, INC. Retail Profitability Analysis
-A Strategic Diagnostic of Profit Conversion Inefficiencies
 
-Four Workstreams  |  Channel  ·  Geography  ·  Retail Partners  ·  Seasonality 
+A diagnostic of how revenue growth is translating (or not translating) into profit
+
+Scope: Channel · Geography · Retail partners · Seasonality 
+
+Dataset: 9,648 transactions (FY2020–FY2021)
 
 ## Table of contents
 * [Executive Summary](#Executive_Summary)
@@ -16,28 +19,30 @@ Four Workstreams  |  Channel  ·  Geography  ·  Retail Partners  ·  Seasonalit
 
 Nike continues to dominate from a brand perspective, but the data suggests a deeper operational issue beneath the surface. After our analysis of 9,648 transactional records spanning US fiscal years 2020 and 2021 reveals a structural paradox at the core of Nike's commercial engine: top-line growth consistently fails to translate into equivalent bottom-line performance. While sales volume and revenue continue to expand, operating margins often decline, indicating inefficiencies in how profit is captured across the retail network.
 
+Importantly, this is not a demand issue. Demand is strong. The issue is how that demand is routed, priced, and fulfilled across the system.
+Nike is not struggling to grow. It is struggling to grow profitably in the places where it is actually scaling.
+
 This report presents findings across four diagnostic workstreams: Channel Profit Pool Optimization, Geographic Profitability Arbitrage, Retail Partner Efficiency, and Inventory Velocity Synchronization. Each workstream targeting a distinct friction layer within Nike's distribution system. 
 
 <img width="633" height="77" alt="image" src="https://github.com/user-attachments/assets/e437c023-c89c-4a78-a480-f663e86bd9d5" />
 
 
 
-*The Paradox of Volume: Nike’s commercial engine continues to deliver strong revenue and volume growth. However, margin performance is not scaling at the same rate. The analysis indicates that inefficiencies across channel mix, regional allocation, partner economics, and inventory flow are diluting profitability. Correcting these four friction points represents a material, near-term profitability opportunity.*
-
 ### Strategic Mandate
 ----------------------
-To protect long-term profitability, Nike must evolve from a volume-driven distribution strategy toward a margin-focused retail architecture. Executing the four workstreams below will unlock embedded value by transforming top-line momentum into sustainable, high-margin cash flow.
+To protect long-term profitability, Nike must evolve from a volume-driven distribution strategy toward a margin-focused retail architecture. This is not a single leak. It is a system-level imbalance. Executing the four workstreams below will unlock embedded value by transforming top-line momentum into sustainable, high-margin cash flow.
 
 
 <img width="625" height="172" alt="image" src="https://github.com/user-attachments/assets/70be254b-dec4-4b33-8a0e-ce8544beeea1" />
 
 ## WORKSTREAM 1 — CHANNEL OPTIMIZATION
 
-Objective: Evaluate how each sales method converts gross volume into net operating cash flow, and identify channels that lose too much profit margin as they grow.
+Objective: Evaluate how each sales method converts gross volume into net operating cash flow and identify channels that lose too much profit margin as they grow.
 
 ### Key Finding: The Volume-Margin Inversion
 ---------------------------------------------
 Online is Nike's highest-revenue channel at 37.9% revenue share,  but it delivers the lowest profit contribution at 29.1% and the weakest Profit Conversion Coefficient (PCC) 0.77 wich means every dollar of revenue generated online returns only 77 cents in proportional profit weight. By contrast, In-store channels generate the lowest revenue share (27.8%) but the highest profit share (38.4%), delivering a PCC of 1.38. This inversion is structurally significant: Nike's fastest-growing channel is its least efficient profit converter.
+
 
 <img width="625" height="119" alt="image" src="https://github.com/user-attachments/assets/2c868d04-286b-4848-aa12-520c82f24e1d" />
 
