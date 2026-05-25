@@ -159,3 +159,29 @@ The top 10 products by monthly run-rate are all Air Max and Zoom family variants
 * Action 4.2 — Build in early warning triggers. If a product's 30-day run-rate drops more than 20% below its recent average, stop pushing new inventory in and focus on selling through existing stock before considering any markdowns.
 * Action 4.3 — Tailor safety stock levels by region. Hidden Gem markets, where demand is growing, should carry more buffer inventory. Profit Desert markets, where over-stocking has proven costly, should be kept lean.
 * Action 4.4 — Introduce a tiered pricing approach for top-performing styles like the Air Max 90 and Air Max 270. Rather than flooding the market with open volume, use controlled availability to protect and grow margins on the products that can actually command a premium.
+
+## STRATEGIC SYNTHESIS & IMPLEMENTATION ROADMAP
+
+### The Central Thesis
+----------------------
+Nike doesn't have a demand problem. It has a profit routing problem.
+Taken together, the four workstreams tell a consistent story: the same unit of demand can produce meaningfully better margins when it flows through the right channel, geography, partner, and time window. The opportunity isn't in chasing more volume — it's in fixing the architecture that determines where that volume lands.
+
+### Priority Action Matrix
+---------------------------
+
+<img width="623" height="317" alt="image" src="https://github.com/user-attachments/assets/78498371-78ca-438d-8411-da378be202a1" />
+
+
+### Expected Outcomes
+-----------------------
+* Channel rebalancing (W1): Moving 5–10% of Online volume toward In-store or better-optimized Outlet could recover roughly 1.5–2.0 percentage points of operating margin across the portfolio.
+* Geographic reallocation (W2): Shifting 15–20% of marketing spend out of Profit Desert markets and into Hidden Gem cities has the potential to lift fleet-wide margins by 0.8–1.2 percentage points within 18 months.
+* Partner tier enforcement (W3): Getting Retailer 1128299 up to a healthy performance benchmark (VPI: 1.00) across its 625,902-unit book could recover around 3.3 percentage points in blended margin on that account alone.
+* Inventory synchronization (W4): Preventing a repeat of the June clearance event — which caused an 18.9pp margin collapse — through smarter, dynamic replenishment could protect an estimated 1.5–2.5 percentage points of H1 operating margin each year going forward.
+
+### Dashboard 
+-------------
+
+<img width="2226" height="1919" alt="nike_analysis_dashboard" src="https://github.com/user-attachments/assets/254ada5b-34c9-47a3-bd17-63494d315b16" />
+
