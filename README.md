@@ -7,7 +7,7 @@ Scope: Channel · Geography · Retail partners · Seasonality
 Dataset: 9,648 transactions (FY2020–FY2021)
 
 ## Table of contents
-* [Executive Summary](#Executive_Summary)
+* [Executive Summary](##Executive_Summary)
 * [Workstream 1](#Channel_Optimization)
 * [Workstream 2](#Geography)
 * [Workstream 3](#Retail_Partners)
