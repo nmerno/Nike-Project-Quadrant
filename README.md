@@ -27,7 +27,6 @@ This report presents findings across four diagnostic workstreams: channels, geog
 <img width="633" height="77" alt="image" src="https://github.com/user-attachments/assets/e437c023-c89c-4a78-a480-f663e86bd9d5" />
 
 
-
 ### Strategic Mandate
 ----------------------
 To protect long-term profitability, Nike must evolve from a volume-driven distribution strategy toward a margin-focused retail architecture. This is not a single leak. It is a system-level imbalance. Executing the four workstreams below will unlock embedded value by transforming top-line momentum into sustainable, high-margin cash flow.
@@ -35,40 +34,54 @@ To protect long-term profitability, Nike must evolve from a volume-driven distri
 
 <img width="625" height="172" alt="image" src="https://github.com/user-attachments/assets/70be254b-dec4-4b33-8a0e-ce8544beeea1" />
 
+
+Introduction & methodology — sets the scope and explains how data was gathered and analyzed. This gives the report credibility.
+
 ## WORKSTREAM 1 — CHANNEL OPTIMIZATION
 
-Objective: How each sales method converts revenue into operating profit? and where growth is working against returns?
+Strategic question:  How should Nike optimize its channel mix to maximaze sustainable operating profit while supporting revenue growth? 
+ 
 
-### Key Finding: The Volume-Margin Inversion
----------------------------------------------
-Online is Nike's highest-revenue channel at 37.9% revenue share,  but it delivers the lowest profit contribution at 29.1% and the weakest Profit Conversion Coefficient (PCC) 0.77 wich means every dollar of revenue generated online returns only 77 cents in proportional profit weight. By contrast, In-store channels generate the lowest revenue share (27.8%) but the highest profit share (38.4%), delivering a PCC of 1.38. This inversion is structurally significant: Nike's fastest-growing channel is its least efficient profit converter.
-
-
-Online's higher average operating margin (46.4%) versus In-store (35.6%) reflects per-transaction efficiency, not systemic profitability. The PCC is the more relevant measure, as it captures how effectively each channel converts revenue into profit relative to its weight and In-store dominates at 1.38x break-even.
+### Key Finding: 
+----------------
+Nike operates across three sales channels : In-store, Online, and Outlet  which exhibit materially different margin profiles despite competing for the same consumer wallet. The analysis evaluates each channel along three dimensions: absolute profit contribution, margin quality relative to the fleet average, and alignment between profit share and revenue footprint.
 
 
-<img width="625" height="119" alt="image" src="https://github.com/user-attachments/assets/2c868d04-286b-4848-aa12-520c82f24e1d" />
+<img width="680" height="134" alt="image" src="https://github.com/user-attachments/assets/06805340-0fca-41c4-914e-e99a654b8b3a" />
 
 
-### Root Cause Analysis
+
+### Intrepertation: 
 ------------------------
-* Online channel suffers from elevated fulfillment costs, return rates, and digital acquisition spend which reduces overall profit despite strong sales volumes.
-* Outlet channels carry heavy markdown exposure, with a PCC of 0.95 sitting just below the break-even threshold of 1.0, signaling structural margin risk.
-*	In-store channels benefit from lower transaction friction, reduced return velocity, and premium product mix allocation. So it's remain the most efficient, leading to higher profit conversion.
+* Online is the margin engine :
+At 42.1% average operating margin, Online outperforms the fleet average by 8.4 percentage points — the widest premium of any channel. More tellingly, Online's profit share exceeds its revenue share by +14.1pp, meaning every unit sold online generates disproportionate profit relative to its volume footprint. This reflects the structural cost advantages of direct digital fulfilment: no retail floor costs, no sales associate overhead, and greater pricing discipline insulated from in-store competitive pressure.
+
+* In-store is broadly neutral:
+In-store sits close to the fleet average (+1.4pp premium) and carries a moderate negative spread (−5.1pp), suggesting its revenue contribution is broadly in line with profit delivery. It is not a value creator at the margin level, but it plays an important role in brand experience and full-price sell-through that is difficult to fully capture in margin data alone. The channel should be maintained selectively rather than aggressively grown.
+
+* Outlet is a structural margin drain: 
+Outlet's 24.5% average margin — 9.2pp below fleet average — combined with a −9.0pp profit-revenue spread signals a channel operating under structural pricing pressure. The likely driver is clearance-led volume: Outlet stores absorb excess inventory at discounted prices, depressing margin across the entire channel's mix. Left unaddressed, this creates a self-reinforcing cycle where over-production in other channels is masked by Outlet's absorptive capacity, removing the pricing discipline signal that would otherwise trigger supply corrections upstream.
+
 
 ### Strategic Recommendations
 ------------------------------
-* Action 1.1 Reallocate inventory allocation thresholds :
-  - Shift high-ASP (average selling price) product so premium, expensive items categories toward **In-store**, where PCC justifies premium positioning.
-  - Set explicit unit caps on the Online channel for margin-sensitive SKUs to prevent profit dilution. 
+* Action 1.1 Reallocate inventory allocation thresholds
+     + Shift high-ASP (average selling price) and premium product categories toward In-store, where profit conversion is structurally strongest and supports full-price discipline.
+     + Set explicit unit caps for margin-sensitive SKUs in Online to prevent scale-driven profit dilution.
+     + Align assortment planning by channel based on historical profit contribution rather than revenue performance.
 
-* Action 1.2 Restructure Online unit economics :  
-  - Introduce channel-specific pricing or shipping thresholds to mitigate the impact of fulfillment costs on Online margin conversion.
-  - Audit digital marketing spend efficiency against per-channel ROAS (Return on Ad Spend) to identify waste.  
+* Action 1.2 Restructure Online unit economics :
+     + Introduce channel-specific pricing logic (or shipping thresholds) to reduce fulfillment cost drag on margin conversion.
+     + Reduce dependency on blanket promotions and shift toward targeted, SKU-level discounting.
+     + Audit digital marketing efficiency at SKU/channel level (ROAS vs actual profit contribution, not just traffic generation).
+     + Rebalance product visibility toward higher-margin SKUs in digital storefront ranking.
 
 * Action 1.3 Outlet channel remediation :
-  - Outlet PCC of 0.95 sits below break-even ( This means Nike is likely selling at too much discount, destroying brand value and margins). 
-  - Enforce tighter markdown authorization controls and shorter clearance windows to prevent further erosion. 
+    + Outlet’s -9.0pp profit–revenue spread signals structural margin dilution driven by excessive markdown reliance.
+    + Enforce stricter SKU eligibility rules to ensure Outlet is limited to end-of-life clearance inventory only.
+    + Introduce tighter markdown governance and shorten clearance cycles to prevent persistent discount dependency.
+    + Prevent premium SKU leakage into Outlet to protect pricing integrity across primary channels.
+
 
 ## WORKSTREAM 2 — GEOGRAPHIY
 
